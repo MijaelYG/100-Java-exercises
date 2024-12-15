@@ -1,7 +1,7 @@
 /*
- *Hacer un algoritmo que permita ingresar una palabra y 
- *de esa palabra solo tome el meyor conjunto de vocales 
- *consecutivas que hay en esa palabra.
+ *Make an algorithm that allows you to enter a word 
+ *and from that word only take the largest set of 
+ *consecutive vowels that are in that word.
  */
 
 import java.util.ArrayList;
