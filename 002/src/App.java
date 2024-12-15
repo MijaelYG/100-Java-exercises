@@ -1,6 +1,6 @@
 /*
- *Hacer un algoritmo que permita sumar las cifras de un 
- *numero ingresado y seguir sumando hasta que solo quede una cifra
+ *Create an algorithm that allows you to add the digits of a number 
+ *and continue adding until only one digit remains.
  */
 
 import java.util.Scanner;
@@ -14,10 +14,6 @@ public class App {
         int NumeroIngresado = scanner.nextInt();
         String Numero = Integer.toString(NumeroIngresado);
 
-        /*
-         * Se hace un do while para que se repita
-         * la funcion hasta que la cifra sea menor a 2
-         */
         do {
             SumaNumeros = 0;
             for (int i = 0; i < Numero.length(); i++) {

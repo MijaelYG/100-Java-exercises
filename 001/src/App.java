@@ -17,8 +17,6 @@ public class App {
         System.out.println("Ingrese la palabra:");
         String palabra = scanner.nextLine();
 
-        /*Buscando Todas las vocales de la palabra para
-        guardarlo en un arrayList */
         for (int i = 0; i < palabra.length(); i++) {
             char letra = palabra.charAt(i);
             if (letra == 'A' || letra == 'a' || letra == 'E' || letra == 'e'
@@ -33,8 +31,6 @@ public class App {
             } 
         }
 
-        /*Buscando el conjunto de vocales mas grande entre 
-        todas las vocales que hay en el arrayList*/
         for (int i = 0; i < lista.size(); i++) {
             String ListaVocal = lista.get(i);
             if(ListaVocal.length() > VocalesGrandes.length()){
