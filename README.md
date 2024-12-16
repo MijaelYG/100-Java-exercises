@@ -9,7 +9,7 @@ I hope you find these exercises useful, thank you!!
 
 ## ⚙️ Exercises
 
-Statement of exercises:
+#### Statement of exercises:
 
 1. Make an algorithm that allows you to enter a word and from that word only take the largest set of consecutive vowels that are in that word. 🚀
   
@@ -21,20 +21,22 @@ Statement of exercises:
    
 6. Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
 
+7. Find the first non-repeating character in a string. 🚀
+
 ## 💡 FAQ
 
 #### ❓ Do the exercises have the solution already made?
 
-Yes, the exercises currently have their solutions, when you download an exercise you will see that it is solved.
+- Yes, the exercises currently have their solutions, when you download an exercise you will see that it is solved.
 
 #### ❓ Do these exercises have a single solution?
 
-No, the solutions I give are based on my current knowledge. I try to do it in less time so that it feels like a real technical test. Remember that in a technical test you won't have as much time to solve it.
+- No, the solutions I give are based on my current knowledge. I try to do it in less time so that it feels like a real technical test. Remember that in a technical test you won't have as much time to solve it.
 
 #### ❓ Do you really find these exercises in Technical Tests?
 
-During my applications to various companies, I have come across several technical tests in Java, and with that, I have created this repository to be ready and prepared for any technical test related to Java. The exercises are based on my experience with the technical tests I have had at various companies, which is why you will typically find these exercises in a technical test related to Java.
+- During my applications to various companies, I have come across several technical tests in Java, and with that, I have created this repository to be ready and prepared for any technical test related to Java. The exercises are based on my experience with the technical tests I have had at various companies, which is why you will typically find these exercises in a technical test related to Java.
 
 #### ❓ Can I make my own solutions to the exercises?
 
-Of course, you are free to give your own solutions, what I provide are the exercises with my solutions. But you are free to give more optimal solutions.
+- Of course, you are free to give your own solutions, what I provide are the exercises with my solutions. But you are free to give more optimal solutions.
