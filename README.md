@@ -21,6 +21,8 @@ Statement of exercises:
    
 6. Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
 
+7. Find the first non-repeating character in a string. 🚀
+
 ## 💡 FAQ
 
 #### ❓ Do the exercises have the solution already made?
