@@ -9,7 +9,7 @@ I hope you find these exercises useful, thank you!!
 
 ## ⚙️ Exercises
 
-Statement of exercises:
+#### Statement of exercises:
 
 1. Make an algorithm that allows you to enter a word and from that word only take the largest set of consecutive vowels that are in that word. 🚀
   
