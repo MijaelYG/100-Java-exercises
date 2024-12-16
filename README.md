@@ -25,6 +25,12 @@ I hope you find these exercises useful, thank you!!
    
 7. Find the characters that are repeated in a string. 🚀
 
+8. Make an algorithm that checks if a string is a palindrome. 💥
+
+9. Algorithm that counts the occurrences of a character in a string. 💥
+
+10. Create an Algorithm that can find the maximum and minimum number in an array. 💥
+
 ## 💡 FAQ
 
 #### ❓ Why do I get an error when trying to run an exercise?
