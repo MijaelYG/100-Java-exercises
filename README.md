@@ -7,7 +7,7 @@ I hope you find these exercises useful, thank you!!
 #### ⚠️ Warning: most variables are in Spanish.
 #### 💥 Please excuse me if there are any words in Spanish (it's my native language), but I assure you that this does not affect the development of the exercises. If you have any problems, please let me know.
 
-## Exercises ⚙️
+## ⚙️ Exercises
 
 Statement of exercises:
 
@@ -18,8 +18,10 @@ Statement of exercises:
 3. Create a method to determine if two words are anagrams (they use the same letters in a different order). 🚀
   
 4. Write a program that finds a duplicate number in an array of integers. 🚀
+   
+6. Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
 
-## FAQ 💡
+## 💡 FAQ
 
 #### ❓ Do the exercises have the solution already made?
 
