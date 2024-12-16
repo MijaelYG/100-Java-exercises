@@ -27,6 +27,10 @@ I hope you find these exercises useful, thank you!!
 
 ## 💡 FAQ
 
+#### ❓ Why do I get an error when trying to run an exercise?
+
+- For an exercise to work correctly, you should only have the exercise folder you want to run open and not have all the exercises open in a general folder, as this will simply cause an error or run the last exercise. If you want to run an exercise, simply open or download that exercise.
+
 #### ❓ Do the exercises have the solution already made?
 
 - Yes, the exercises currently have their solutions, when you download an exercise you will see that it is solved.
