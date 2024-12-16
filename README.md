@@ -18,10 +18,12 @@ I hope you find these exercises useful, thank you!!
 3. Create a method to determine if two words are anagrams (they use the same letters in a different order). 🚀
   
 4. Write a program that finds a duplicate number in an array of integers. 🚀
-   
-6. Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
+  
+5. . Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
 
-7. Find the first non-repeating character in a string. 🚀
+6. Find the first non-repeating character in a string. 🚀
+   
+7. Find the characters that are repeated in a string. 🚀
 
 ## 💡 FAQ
 
