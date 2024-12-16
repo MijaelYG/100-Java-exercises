@@ -19,7 +19,7 @@ I hope you find these exercises useful, thank you!!
   
 4. Write a program that finds a duplicate number in an array of integers. 🚀
   
-5. . Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
+5. Write a program that sorts a list of text strings by their length from smallest to largest. 🚀
 
 6. Find the first non-repeating character in a string. 🚀
    
