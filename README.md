@@ -36,10 +36,7 @@ I hope you find these exercises useful, thank you!!
 12. Given an array of integers, the algorithm must find the index of an element such that the sum of the elements to the left of that index equals the sum of the elements to the right of that index. If there is no such index, the result must be (i = -1). Example: array { 1, 50, -51, 1, 100, 1 } the index is (i = 4). The sum of the left side is (1) and the sum of the right side is (1) 🚀
 
 13. Make me an algorithm that solves a quadratic equation of the form
-ax^2 + bx + c = 0 where a, b and c are integers to be entered. The algorithm must calculate the roots of the equation and display the result according to the discriminant: 🚀
-If the discriminant is greater than 0, two different real solutions must be displayed. 💡
-If the discriminant is equal to 0, a single real solution must be displayed. 💡
-If the discriminant is less than 0, the roots must be indicated as complex (with imaginary part) and the two complex solutions must be displayed. 💡
+ax^2 + bx + c = 0 where a, b and c are integers to be entered. The algorithm must calculate the roots of the equation and display the result according to the discriminant: If the discriminant is greater than 0, two different real solutions must be displayed. If the discriminant is equal to 0, a single real solution must be displayed. If the discriminant is less than 0, the roots must be indicated as complex (with imaginary part) and the two complex solutions must be displayed. 🚀
 
 14. 
 
