@@ -31,6 +31,12 @@ I hope you find these exercises useful, thank you!!
 
 10. Create an Algorithm that can find the maximum and minimum number in an array. 🚀
 
+11. Create an algorithm that allows you to obtain the odd numbers from a matrix and as a result multiply the odd numbers obtained 🚀
+
+12. Given an array of integers, the algorithm must find the index of an element such that the sum of the elements to the left of that index equals the sum of the elements to the right of that index. If there is no such index, the result must be (i = -1). Example: array { 1, 50, -51, 1, 100, 1 } the index is (i = 4). The sum of the left side is (1) and the sum of the right side is (1) 🚀
+
+13. 
+
 ## 💡 FAQ
 
 #### ❓ Why do I get an error when trying to run an exercise?
