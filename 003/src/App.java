@@ -22,7 +22,7 @@ public class App {
         String[] palabraTList = palabraT.split("");
         if(palabraO.length() == palabraT.length()){
             for (int i = 0; i < palabraO.length(); i++) {
-                if(Arrays.asList(palabraOList).get(i).equals(Arrays.asList(palabraTList).get(palabraT.length() - 1 - i))){
+                if(palabraOList[i].equals(palabraTList[palabraT.length() - 1 - i])){
                     Verificador.add(true);
                 }else{
                     Verificador.add(false);

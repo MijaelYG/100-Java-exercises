@@ -13,7 +13,7 @@ public class App {
         System.out.println("Lista desordenada: ");
         System.out.println(Arrays.toString(ListaFrutasD));
         for (int i = 0; i < ListaFrutasD.length-1; i++) {
-            for (int j = 0; j < ListaFrutasD.length - 1; j++) {
+            for (int j = 0; j < ListaFrutasD.length - 1 - i; j++) {
                 if(ListaFrutasD[j].length() > ListaFrutasD[j + 1].length()){
                     String pos = ListaFrutasD[j];
                     ListaFrutasD[j] = ListaFrutasD[j + 1];
