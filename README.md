@@ -38,7 +38,7 @@ I hope you find these exercises useful, thank you!!
 13. Make me an algorithm that solves a quadratic equation of the form
 ax^2 + bx + c = 0 where a, b and c are integers to be entered. The algorithm must calculate the roots of the equation and display the result according to the discriminant: If the discriminant is greater than 0, two different real solutions must be displayed. If the discriminant is equal to 0, a single real solution must be displayed. If the discriminant is less than 0, the roots must be indicated as complex (with imaginary part) and the two complex solutions must be displayed. 🚀
 
-14. 
+14. Create an algorithm that compresses a string by replacing repeated character sequences with the character followed by the number of times it appears. For example, "aabcccccaaa"  → "a2b1c5a3". 🚀
 
 ## 💡 FAQ
 
